@@ -1,0 +1,10 @@
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csprojAssemblyReference.cache
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.SentenceBuilder.resources
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.Properties.Resources.resources
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csproj.GenerateResource.cache
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.csproj.CoreCompileInputs.cache
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.exe.config
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.exe
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\bin\Debug\SentenceBuilder.pdb
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.exe
+C:\Users\dcox\source\repos\SentenceBuilder\SentenceBuilder\obj\Debug\SentenceBuilder.pdb
